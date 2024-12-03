@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VaultX   
+ Registration</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <header>
+        <img src="vx_logo.png" alt="VaultX Logo">
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Login</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="register-form">
+            <h2>Register</h2>
+            <p>Register in your account</p>
+            <form>
+                <div class="input-group">
+                    <label for="first-name">First Name</label>
+                    <input type="text" id="first-name" name="first-name" required>
+                </div>
+                <div class="input-group">
+                    <label for="last-name">Last Name</label>
+                    <input type="text" id="last-name" name="last-name" required>
+                </div>
+                <div class="input-group">
+                    <label for="email">Email   
+ Id</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="input-group">
+                    <label   
+ for="mobile-number">Mobile Number</label>
+                    <input type="tel" id="mobile-number" name="mobile-number" required>
+                </div>
+                <div class="input-group">
+                    <label for="dob">DOB</label>   
+
+                    <input type="date" id="dob" name="dob" required>
+                </div>
+                <div class="input-group">
+                    <label for="otp">OTP</label>
+                    <input type="text" id="otp" name="otp" required>
+                </div>
+                <button type="submit">Register</button>
+            </form>
+            <p>Already have an account? <a href="#">Login to your account</a></p>
+        </div>
+    </main>
+
+    <footer>
+        </footer>
