@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VaultX   
+ Login</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <header>
+        <img src="vx_logo.png" alt="VaultX Logo">
+        <nav>
+            <a href="#">Home</a>
+            <a href="register.html">Register</a> </nav>
+    </header>
+
+    <main>
+        <div class="login-form">
+            <h2>Login</h2>
+            <p>Sign in your account</p>
+            <form>
+                <div class="input-group">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+                <div class="input-group">
+                    <label for="password">Password</label>   
+
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <button type="submit">Login</button>
+                <p><a   
+ href="#">Forgot your password?</a></p>
+                <p><a href="register.html">Register new account</a></p>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        </footer>
+
+    <script src="script.js"></script> </body>
+</html>
