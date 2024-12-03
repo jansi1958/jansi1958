@@ -1,0 +1,26 @@
+.logo {
+    text-align: center;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #009900; /* Green color */
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.vx {
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+}
+
+p {
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+}
