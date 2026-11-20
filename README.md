@@ -1,3 +1,5 @@
+![Jansi Verma — GitHub profile banner](github-banner-creative.png)
+
 # Hi, I'm Jansi Verma 👋
 
 Final-year B.Tech Computer Science student and aspiring Software Development Engineer. I build full-stack applications with Java, React.js and Node.js, and I'm certified in Ethical Hacking (Cisco).
